@@ -3,3 +3,7 @@
 # juanDi #
 
 ## Que se cuenta? 😵‍💫 ##
+
+|hola|adios|
+|----|-----|
+|hey|bye|
